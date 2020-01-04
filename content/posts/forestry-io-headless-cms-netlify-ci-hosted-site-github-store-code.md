@@ -1,6 +1,6 @@
 ---
 date: 2020-01-04T14:04:49Z
-hero_image: ''
+hero_image: "/content/images/ren-ran-bBiuSdck8tU-unsplash.jpg"
 title: forestry.io (headless cms) + netlify (CI, hosted site) + github (store code)
 author: Robert Thoreau
 
