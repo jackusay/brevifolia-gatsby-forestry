@@ -37,8 +37,24 @@ Publish directory   public/
 
 4\. done. 從forestry加入新的內容到github時，netlify會自動CI
 
-forestry only plain text and markdown
+forestry editor only plain text and markdown
 
   [https://forestry.io/blog/discontinuing-wysiwyg-editor-new-focus-on-markdown/](https://forestry.io/blog/discontinuing-wysiwyg-editor-new-focus-on-markdown/ "https://forestry.io/blog/discontinuing-wysiwyg-editor-new-focus-on-markdown/")
 
-ps. 內建的gatsby starter 內文一定要放head image, 不然build會失敗
+ps. 內建的gatsby starter 內文一定要放head image, 不然netlify build會失敗
+
+\---
+
+netlify cms 很簡陋 後台list沒顯示文章時間
+
+  [https://www.netlifycms.org/docs/start-with-a-template/](https://www.netlifycms.org/docs/start-with-a-template/ "https://www.netlifycms.org/docs/start-with-a-template/")
+
+  
+
+用內建starter創好blog後，會寄登入信url。
+
+第一次登入要設密碼
+
+之後用mail/password即可在 <yoursiteaddress.com>/admin/ 登入
+
+![](/content/images/2020-01-05 00_09_43-Content Manager 1.jpg)
